@@ -12,6 +12,5 @@
 		</buildCommand>
 	</buildSpec>
 	<natures>
-		<nature>com.salesforce.ide.nature.default</nature>
 	</natures>
 </projectDescription>
