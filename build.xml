@@ -1,4 +1,4 @@
-<project  name="Salesforce ANT CI"  default="testonly"
+<project  name="Salesforce ANT CI"  default="deploy"
   xmlns:sf="antlib:com.salesforce"  basedir=".">
 
   <taskdef resource="com/salesforce/antlib.xml"
