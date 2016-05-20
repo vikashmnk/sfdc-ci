@@ -1,3 +1,15 @@
 <apex:page >
+
   <!--urminder added this line-->
+
+
+	<apex:form><!-- -Deepika -->
+	</apex:form>
+
+<script>
+//riya
+
+</script>
+
+
 </apex:page>
