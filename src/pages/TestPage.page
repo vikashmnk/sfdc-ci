@@ -1,2 +1,4 @@
 <apex:page >
+	<apex:form><!-- -Deepika -->
+	</apex:form>
 </apex:page>
