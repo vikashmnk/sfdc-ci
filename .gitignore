@@ -1,5 +1,5 @@
-**/.package.xml
-**/.project
+.project
 .DS_Store
 .settings/
 **/salesforce.schema
+src/package.xml
